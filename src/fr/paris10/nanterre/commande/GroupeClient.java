@@ -25,4 +25,12 @@ public class GroupeClient implements Ivisitable{
     public ArrayList<Client> getList() {
         return clients;
     }
+
+    @Override
+    public String toString() {
+        return "GroupeClient{" +
+                "name='" + name + '\'' +
+                ", clients=" + clients +
+                '}';
+    }
 }

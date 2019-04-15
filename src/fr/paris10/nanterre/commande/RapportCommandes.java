@@ -1,7 +1,11 @@
 package fr.paris10.nanterre.commande;
 
 
- public class RapportCommandes implements Ivisitor {
+import java.util.ArrayList;
+import java.util.List;
+
+public class RapportCommandes implements Ivisitor {
+     private List<Commande> cmd=new ArrayList<Commande>();
     @Override
    public void visit(Client c){
         System.out.println("Client visité :" +c.toString() );
@@ -18,7 +22,7 @@ package fr.paris10.nanterre.commande;
     }
     @Override
    public void afficherCommandes(){
-
+        cmd.forEach(System.out::println);
      }
 
 }

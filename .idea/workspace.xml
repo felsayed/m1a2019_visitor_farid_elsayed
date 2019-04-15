@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c0f5b18-d1d9-44e7-80dd-1abe6fd7e158" name="Default" comment="" />
+    <list default="true" id="8c0f5b18-d1d9-44e7-80dd-1abe6fd7e158" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
+      <change beforePath="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Commande.java" afterPath="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Commande.java" />
+      <change beforePath="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/GroupeClient.java" afterPath="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/GroupeClient.java" />
+      <change beforePath="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Ligne.java" afterPath="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Ligne.java" />
+      <change beforePath="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/RapportCommandes.java" afterPath="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/RapportCommandes.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +22,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,8 +34,8 @@
       <file leaf-file-name="Ivisitor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Ivisitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -37,11 +44,15 @@
       <file leaf-file-name="RapportCommandes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/RapportCommandes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+            <state relative-caret-position="284">
+              <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding>
-                <element signature="e#370#371#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#189#199#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#647#648#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,16 +71,16 @@
       <file leaf-file-name="Commande.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Commande.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            <state relative-caret-position="254">
+              <caret line="35" column="18" lean-forward="false" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
               <folding>
+                <element signature="e#161#168#0" expanded="true" />
                 <element signature="e#368#369#0" expanded="true" />
                 <element signature="e#395#396#0" expanded="true" />
                 <element signature="e#430#431#0" expanded="true" />
                 <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#682#683#0" expanded="true" />
-                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#725#726#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,8 +89,8 @@
       <file leaf-file-name="Ligne.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Ligne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="329">
+              <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding>
                 <element signature="e#219#220#0" expanded="true" />
                 <element signature="e#246#247#0" expanded="true" />
@@ -93,7 +104,7 @@
       <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="299">
               <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
               <folding>
                 <element signature="e#382#383#0" expanded="true" />
@@ -112,9 +123,10 @@
       <file leaf-file-name="GroupeClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/GroupeClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="62" />
+            <state relative-caret-position="254">
+              <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
               <folding>
+                <element signature="e#193#201#0" expanded="true" />
                 <element signature="e#258#259#0" expanded="true" />
                 <element signature="e#313#314#0" expanded="true" />
                 <element signature="e#353#354#0" expanded="true" />
@@ -153,12 +165,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Ivisitor.java" />
         <option value="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Ivisitable.java" />
-        <option value="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Ligne.java" />
-        <option value="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/GroupeClient.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Commande.java" />
         <option value="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Client.java" />
+        <option value="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Commande.java" />
+        <option value="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/GroupeClient.java" />
         <option value="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/RapportCommandes.java" />
+        <option value="$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Ligne.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
   </component>
@@ -168,11 +180,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="230" />
-    <option name="y" value="23" />
-    <option name="width" value="1059" />
-    <option name="height" value="825" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="602" />
+    <option name="y" value="24" />
+    <option name="width" value="886" />
+    <option name="height" value="812" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -190,7 +202,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,8 +232,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -272,6 +284,11 @@
       <envs />
       <method />
     </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -289,30 +306,43 @@
       <workItem from="1554730272943" duration="6274000" />
       <workItem from="1554880430762" duration="41000" />
       <workItem from="1554880566435" duration="347000" />
-      <workItem from="1554881021900" duration="403000" />
+      <workItem from="1554881021900" duration="1584000" />
+      <workItem from="1555330212289" duration="2481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7065000" />
+    <option name="totallyTimeSpent" value="10727000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="23" width="1440" height="829" extended-state="6" />
+    <frame x="602" y="24" width="886" height="812" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32970026" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18597998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2120853" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -324,7 +354,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,21 +369,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/RapportCommandes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
-          <folding>
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -364,6 +382,21 @@
         <state relative-caret-position="90">
           <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/RapportCommandes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#189#199#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -380,13 +413,13 @@
         <state relative-caret-position="240">
           <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding>
+            <element signature="e#161#168#0" expanded="true" />
             <element signature="e#368#369#0" expanded="true" />
             <element signature="e#395#396#0" expanded="true" />
             <element signature="e#430#431#0" expanded="true" />
             <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -426,6 +459,114 @@
         <state relative-caret-position="90">
           <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="62" />
           <folding>
+            <element signature="e#193#201#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/RapportCommandes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#189#199#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Ivisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Ivisitable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Commande.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="e#161#168#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Ligne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding>
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/GroupeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="62" />
+          <folding>
+            <element signature="e#193#201#0" expanded="true" />
             <element signature="e#258#259#0" expanded="true" />
             <element signature="e#313#314#0" expanded="true" />
             <element signature="e#353#354#0" expanded="true" />
@@ -463,8 +604,12 @@
         <state relative-caret-position="225">
           <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
           <folding>
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#189#199#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -482,13 +627,13 @@
         <state relative-caret-position="240">
           <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding>
+            <element signature="e#161#168#0" expanded="true" />
             <element signature="e#368#369#0" expanded="true" />
             <element signature="e#395#396#0" expanded="true" />
             <element signature="e#430#431#0" expanded="true" />
             <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -528,6 +673,7 @@
         <state relative-caret-position="90">
           <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="62" />
           <folding>
+            <element signature="e#193#201#0" expanded="true" />
             <element signature="e#258#259#0" expanded="true" />
             <element signature="e#313#314#0" expanded="true" />
             <element signature="e#353#354#0" expanded="true" />
@@ -573,13 +719,13 @@
         <state relative-caret-position="240">
           <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding>
+            <element signature="e#161#168#0" expanded="true" />
             <element signature="e#368#369#0" expanded="true" />
             <element signature="e#395#396#0" expanded="true" />
             <element signature="e#430#431#0" expanded="true" />
             <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -619,6 +765,7 @@
         <state relative-caret-position="90">
           <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="62" />
           <folding>
+            <element signature="e#193#201#0" expanded="true" />
             <element signature="e#258#259#0" expanded="true" />
             <element signature="e#313#314#0" expanded="true" />
             <element signature="e#353#354#0" expanded="true" />
@@ -638,17 +785,22 @@
         <state relative-caret-position="225">
           <caret line="16" column="61" lean-forward="true" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
           <folding>
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#189#199#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/GroupeClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="62" />
+        <state relative-caret-position="254">
+          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
           <folding>
+            <element signature="e#193#201#0" expanded="true" />
             <element signature="e#258#259#0" expanded="true" />
             <element signature="e#313#314#0" expanded="true" />
             <element signature="e#353#354#0" expanded="true" />
@@ -663,9 +815,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Commande.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="35" column="18" lean-forward="false" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+          <folding>
+            <element signature="e#161#168#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="299">
           <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
           <folding>
             <element signature="e#382#383#0" expanded="true" />
@@ -680,10 +848,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Ivisitable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Ligne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="329">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
           <folding>
             <element signature="e#219#220#0" expanded="true" />
             <element signature="e#246#247#0" expanded="true" />
@@ -693,53 +869,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Commande.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-          <folding>
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Ivisitable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/RapportCommandes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+        <state relative-caret-position="284">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding>
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#189#199#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/paris10/nanterre/commande/Ivisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="28" />
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="345">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

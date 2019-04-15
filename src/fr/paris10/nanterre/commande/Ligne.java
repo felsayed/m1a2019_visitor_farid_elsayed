@@ -15,4 +15,11 @@ public class Ligne implements Ivisitable{
     {
         name=Name;
     }
+
+    @Override
+    public String toString() {
+        return "Ligne{" +
+                "name='" + name + '\'' +
+                '}';
+    }
 }

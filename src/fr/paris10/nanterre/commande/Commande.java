@@ -20,6 +20,7 @@ public class Commande implements Ivisitable{
 
     public Commande(String name) {
         Name = name;
+        this.ligne=new ArrayList<Ligne>();
     }
 
     public Commande(ArrayList<Ligne> ligne, String name) {
@@ -29,5 +30,13 @@ public class Commande implements Ivisitable{
 
     public ArrayList<Ligne> getList() {
         return ligne;
+    }
+
+    @Override
+    public String toString() {
+        return "Commande{" +
+                "ligne=" + ligne +
+                ", Name='" + Name + '\'' +
+                '}';
     }
 }
